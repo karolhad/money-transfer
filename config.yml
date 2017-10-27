@@ -1,0 +1,12 @@
+logging:
+  level: INFO
+  loggers:
+    com.hadala: INFO
+
+accounts:
+  - id: 1
+    balance: 100000
+  - id: 2
+    balance: 250
+  - id: 3
+    balance: 0
